@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+header {
+  background: #333;
+  color: #fff;
+  padding: 1em;
+}
+nav a {
+  color: #fff;
+  margin: 0 10px;
+  text-decoration: none;
+}
+.product, .about {
+  margin: 2em auto;
+  max-width: 600px;
+}
+.product-photo, .creator-photo {
+  max-width: 100%;
+  border-radius: 10px;
+}
+footer {
+  background: #f1f1f1;
+  padding: 1em;
+  margin-top: 2em;
+}
